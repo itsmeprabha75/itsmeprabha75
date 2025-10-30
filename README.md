@@ -8,9 +8,8 @@ I'm a passionate developer who loves building innovative solutions and learning 
 - 👯 I'm looking to collaborate on Data Analysis/Machine Learning projects
 - 💬 Ask me about Python, SQL, Power BI.
 - 📫 How to reach me: aravindtejaprabha@gmail.com
-- ⚡ Fun fact: **Let's connect, learn, and grow together—one repo at a time.**
-
-You bring the snacks, I'll bring the code 🍪 💻
+-  **Let's connect, learn, and grow together—one repo at a time.**
+  You bring the snacks, I'll bring the code 🍪 💻
 
 ## 💻 Tech Stack:
 
