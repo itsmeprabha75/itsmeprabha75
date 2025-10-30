@@ -1,7 +1,7 @@
 # Hi there, I'm BASTIPADU ARAVINDTEJA 👋
 
 ## 🚀 About Me
-I'm a passionate developer who loves building innovative solutions and learning new technologies. Currently focused on Data Analyst.
+I'm a passionate developer who loves building innovative solutions and learning new technologies. Currently focused on Data Analysis.
 
 - 🌱 I’m a B Tech Computer Science Graduate.
 - 👀 I’m interested in Data Analysis & Machine Learning.
