@@ -7,10 +7,10 @@ I'm a passionate developer who loves building innovative solutions and learning 
 - 👀 I’m interested in Data Analysis & Machine Learning.
 - 👯 I'm looking to collaborate on Data Analysis/Machine Learning projects
 - 💬 Ask me about Python, SQL, Power BI.
-- 📫 How to reach me:
-- **✉️ Email:** aravindtejaprabha@gmail.com
-- **📱 Phone:** 9515748927
-- **🔗 LinkedIn:** https://www.linkedin.com/in/aravintejaprabha75 
+- **📫 How to reach me:**
+**✉️ Email:** aravindtejaprabha@gmail.com
+**📱 Phone:** 9515748927
+**🔗 LinkedIn:** https://www.linkedin.com/in/aravintejaprabha75 
 -  **Let's connect, learn, and grow together—one repo at a time.**
   You bring the snacks, I'll bring the code 🍪 💻
 
